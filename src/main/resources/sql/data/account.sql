@@ -1,0 +1,10 @@
+delete from account;
+insert into account (id, name, age, phone, email) values (1, '刘一', 11, '13579000111', 'liuyi@unit.test.org');
+insert into account (id, name, age, phone, email) values (2, '陈二', 12, '13579000222', 'chener@unit.test.org');
+insert into account (id, name, age, phone, email) values (3, '张三', 13, '13579000333', 'zhangsan@unit.test.org');
+insert into account (id, name, age, phone, email) values (4, '李四', 14, '13579000444', 'lisi@unit.test.org');
+insert into account (id, name, age, phone, email) values (5, '王五', 15, '13579000555', 'wangwu@unit.test.org');
+insert into account (id, name, age, phone, email) values (6, '赵六', 16, '13579000666', 'zhaoliu@unit.test.org');
+insert into account (id, name, age, phone, email) values (7, '孙七', 17, '13579000777', 'sunqi@unit.test.org');
+insert into account (id, name, age, phone, email) values (8, '周八', 18, '13579000888', 'zhouba@unit.test.org');
+insert into account (id, name, age, phone, email) values (9, '吴九', 19, '13579000999', 'wujiu@unit.test.org');
